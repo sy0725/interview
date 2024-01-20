@@ -5,7 +5,7 @@
 프론트엔드 면접 대비를 위한 학습 저장소입니다.
 
 - 기존 Today 레포지토리에 있던 Interview 폴더를 이전하였습니다.
-- 추가할 내용의 참고 레퍼런스는 [신입 개발자 전공 지식 & 기술 면접 백과사전](https://github.com/gyoogle/tech-interview-for-developer) , [Front-end-Developer-Interview-Questions](https://github.com/sudheerj/reactjs-interview-questions) , [React-interview-Question](https://github.com/sudheerj/reactjs-interview-questions) 입니다.
+- 추가할 내용의 참고 레퍼런스는 [신입 개발자 전공 지식 & 기술 면접 백과사전](https://github.com/gyoogle/tech-interview-for-developer) , [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions?tab=readme-ov-file) , [React-interview-Question](https://github.com/sudheerj/reactjs-interview-questions) 입니다.
 - 질문에 대한 답변을 번역하고 학습하고 있습니다.
 
 ## 목차 🎯
